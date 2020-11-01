@@ -1,0 +1,6 @@
+weboot:
+  log:
+    ignore-param-types: org.springframework.validation.BeanPropertyBindingResult,
+    header-enabled: false
+    header-all: false
+    header-names: host,token
