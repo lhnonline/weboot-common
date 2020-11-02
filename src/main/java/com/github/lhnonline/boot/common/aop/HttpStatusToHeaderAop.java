@@ -11,10 +11,10 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description 把返回结果中的状态码写入http状态码的切面
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description 把返回结果中的状态码写入http状态码的切面
  */
 @Aspect
 public class HttpStatusToHeaderAop {

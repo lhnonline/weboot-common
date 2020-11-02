@@ -20,7 +20,7 @@
 
     <scm>
         <url>https://github.com/lhnonline</url>
-        <connection>https://github.com/lhnonline/simple-redis-spring-boot-starter.git</connection>
+        <connection>https://github.com/lhnonline/weboot-common.git</connection>
     </scm>
 
     <developers>
@@ -101,6 +101,7 @@
         <profile>
             <id>release</id>
             <build>
+
                 <plugins>
                     <!-- Source -->
                     <plugin>
@@ -152,6 +153,7 @@
                         </executions>
                     </plugin>
                 </plugins>
+
             </build>
             <distributionManagement>
                 <snapshotRepository>

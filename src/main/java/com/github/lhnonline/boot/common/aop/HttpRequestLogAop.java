@@ -24,10 +24,10 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description http请求日志记录切面
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description http请求日志记录切面
  */
 @Aspect
 @Slf4j

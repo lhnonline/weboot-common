@@ -15,10 +15,10 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description
  */
 @Getter
 @Setter
@@ -59,10 +59,6 @@ public class RequestLogConfig {
     }
 
     public String toString() {
-        System.out.println("---test");
-        System.out.println("---test");
-        System.out.println("---test");
-        System.out.println("---test");
         return JSON.toJSON(this).toString();
     }
 }

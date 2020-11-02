@@ -9,10 +9,10 @@ import lombok.Setter;
 import java.util.List;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description
  */
 @Getter
 @Setter

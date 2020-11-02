@@ -7,10 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description
  */
 @Getter
 @Setter

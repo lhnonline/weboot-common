@@ -13,10 +13,10 @@ import org.springframework.core.type.AnnotationMetadata;
 import org.springframework.util.StringUtils;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description
  */
 public class HttpRequestLogAopReg implements ImportBeanDefinitionRegistrar, BeanFactoryAware {
 

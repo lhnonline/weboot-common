@@ -6,10 +6,10 @@ import org.springframework.context.annotation.Import;
 import java.lang.annotation.*;
 
 /**
- * @author luohaonan
- * @date 2020-11-11
- * @email 0376lhn@gmail.com
- * @description 开启把返回结果中的状态码写入http状态码
+ * author luohaonan
+ * date 2020-11-11
+ * email 0376lhn@gmail.com
+ * description 开启把返回结果中的状态码写入http状态码
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)
